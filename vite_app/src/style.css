@@ -1,0 +1,306 @@
+.header {
+    height: 5vh;
+    width: 75vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .logo {
+    height: 6vh;
+    width: 10vw;
+ }
+ 
+ .header1 {
+    display: grid;
+    grid-template-columns: 190px 60px 90px 130px;
+ }
+ 
+ .header2 {
+    display: grid;
+    grid-template-columns: 270px 70px 40px 40px;
+    margin-top: -0.6vh;
+ 
+ }
+ 
+ .search {
+    height: 5vh;
+    width: 15vw;
+    background-color: #EAEAEA;
+    margin-top: -1.5vh;
+ }
+ 
+ /* .search_icon{
+     height: 5vh;
+     width: 5vw;
+     color: black;
+ } */
+ .p2 {
+    opacity: 0.5;
+    margin-top: 2vh;
+    margin-left: 1.8vw;
+    height: 0;
+    padding-top: 1vh;
+ }
+ 
+ .p3 {
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-top: 2vh;
+ }
+ 
+ .extra1 {
+    border-left: 1px solid gray;
+    padding-left: 1.2vw;
+    cursor: pointer;
+ }
+ 
+ .img1 {
+    height: 2.5vh;
+    width: 2.5vw;
+    margin-top: 1.6vh;
+ }
+ 
+ .img2 {
+    height: 2.5vh;
+    width: 2.2vw;
+    margin-top: 1.6vh;
+ }
+ 
+ .hr {
+    opacity: 0.2;
+    margin-top: 3vh;
+ }
+ 
+ .nav {
+    display: grid;
+    grid-template-columns: 180px 114px 132px 180px 178px 159px 207px 196px 180px 209px 209px 95px;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    margin-top: 3vh;
+ }
+ 
+ .child3 {
+    font-size: 1.1rem;
+ }
+ 
+ .img3 {
+    height: 80vh;
+    width: 35vw;
+    margin-top: 3vh;
+ }
+ 
+ .container1 {
+    display: flex;
+    column-gap: 1vw;
+    overflow-x: scroll;
+    scrollbar-width: none;
+ }
+ 
+ .container2 {
+    display: flex;
+    column-gap: 1vw;
+ }
+ 
+ .img4 {
+    width: 48.5vw;
+ }
+ 
+ .container3 {
+    display: flex;
+    column-gap: 1vw;
+    overflow-x: scroll;
+    scrollbar-width: none;
+ }
+ 
+ .img5 {
+    height: 70vh;
+ }
+ 
+ .container4 {
+    display: flex;
+ }
+ 
+ .img6 {
+    height: 55vh;
+    width: 16.4vw;
+ }
+ 
+ .container5 {
+    display: flex;
+    margin-top: 2vh;
+ }
+ 
+ .container6 {
+    display: flex;
+    margin: auto;
+    margin-top: 2vh;
+    justify-content: center;
+ }
+ 
+ .img7 {
+    height: 55vh;
+    width: 16.4vw;
+ }
+ 
+ .container7 {
+    display: flex;
+ }
+ 
+ .container8 {
+    display: flex;
+    margin-top: 2vh;
+ }
+ 
+ .container9 {
+    display: flex;
+    margin: auto;
+    margin-top: 2vh;
+    justify-content: center;
+ }
+ 
+ .img8 {
+    width: 98vw;
+ }
+ 
+ .child9 {
+    border: 1px solid rgb(214, 214, 214);
+    height: 61vh;
+    border-radius: 5px;
+ }
+ 
+ .container11 {
+    display: flex;
+    column-gap: 1vw;
+    margin-top: 2vh;
+ }
+ 
+ .img9 {
+    width: 18.7vw;
+    height: 52vh;
+ }
+ 
+ .p4 {
+    font-size: 1rem;
+    opacity: 0.9;
+    font-weight: 500;
+    padding-left: 0.5vw;
+ }
+ 
+ .p5 {
+    font-size: 0.9rem;
+    opacity: 0.6;
+    padding-left: 0.5vw;
+ }
+ 
+ .p6 {
+    padding-left: 0.5vw;
+ }
+ 
+ del {
+    font-size: 0.8rem;
+    opacity: 0.8;
+ }
+ 
+ .p8 {
+    font-size: 0.8rem;
+    color: rgb(0, 184, 82);
+ }
+ 
+ .img10 {
+    margin-left: 16.5vw;
+    margin-top: -9vh;
+    margin-bottom: 6vh;
+ }
+ 
+ .explore {
+    margin-left: 47vw;
+    margin-top: 4vh;
+ }
+ 
+ .container12 {
+    display: flex;
+    column-gap: 1vw;
+    margin-top: 2vh;
+ }
+ 
+ .child10 {
+    margin-top: 10vh;
+    margin-left: -13vw;
+ }
+ 
+ .child11 {
+    background-color: #FFF2D4;
+    height: 110vh;
+    width: 98vw;
+ }
+ 
+ .child12 {
+    display: flex;
+ }
+ 
+ .img11 {
+    width: 16.4vw;
+    height: 60vh;
+ }
+ 
+ .container14 {
+    display: flex;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    column-gap: 1vw;
+ }
+ 
+ .container15 {
+    width: 80vw;
+    margin: auto;
+    height: 40vh;
+    display: flex;
+    column-gap: 1.2vw;
+    margin-top: 5vh;
+ }
+ 
+ .img12 {
+    height: 32vh;
+    width: 10.5vw;
+ }
+ 
+ .container16{
+    width: 74vw;
+    margin: auto;
+    margin-top: -5vh;
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: 11vw 11vw 13vw 11vw 11.5vw 12vw 10vw;
+ }
+ 
+ .container17 {
+    display: flex;
+    column-gap: 1vw;
+    margin-top: 2vh;
+ }
+ 
+ .container18{
+    display: flex;
+    column-gap: 1vw;
+    overflow-x: scroll;
+    scrollbar-width: none;
+ }
+ 
+ .img13{
+    width: 49vw;
+    height: 82vh;
+ }
+ 
+ .container19{
+    display: flex;
+    column-gap: 1vw;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    margin-top: 2vh;
+ }
+ 
+ .img14{
+    width: 32vw;
+    height: 70vh;
+ }
